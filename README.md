@@ -1,7 +1,7 @@
-# Resume Guidelines
+# Technical Resume Guidelines
 
 ### Overview: 
-Recruiters are looking for your technical ability and experience building things. You should focus your resume on WHAT you developed, HOW you developed it, and what frameworks you used to build it. A recruiter cares that you implemented X using Y to parse, build an API, etc.
+Recruiters are looking for your technical ability and experience building things. You should focus your resume on WHAT you developed, HOW you developed it, and what frameworks you used to build it. A recruiter cares that you implemented X using Y to parse, build an API, etc. You want to focus on the *technical* things you have accomplished.
 
 ### General Resume Advice:
 1. I would suggest ordering your sections in the order: education, experience, projects, skill, activities, awards.
