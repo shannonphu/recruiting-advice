@@ -12,6 +12,9 @@ Recruiters are looking for your technical ability and experience building things
 6. You can omit the objective. Those are outdated.
 7. For coursework, don't put course numbers because they mean nothing to someone not attending UCLA. Put a course name that means something to anyone external.
 
+### Make your resume look better
+* Use creddle.io for nice resume templates
+
 Here is my resume if you want an example: http://shannonphu.github.io/resume/
 
 ### Contact:
