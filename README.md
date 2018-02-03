@@ -33,7 +33,7 @@ Recruiters are looking for your technical ability and experience building things
 * tldr; be more descriptive about what features you developed and how, use power verbs!
 
 #### Education
-* **Put expected graduation MM/YYYY**
+* **IMPORTANT: Put expected graduation MM/YYYY**
 * Don't put when you started college
 * Leave out highschool education info
     * An exception to this is if you are a first year college student and don't have too much to put on your resume yet
