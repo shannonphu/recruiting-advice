@@ -23,7 +23,7 @@ Recruiters are looking for your technical ability and experience building things
 * A good starting structure is to put 1 bullet as a concise description of the overall project
 * In the next bullets **describe** what **features** you developed and **how**
     * Example: instead of saying you "built a frontend website", you could say "developed responsive login page and implemented calendar visualization with React.js"
-    * Example: Instead of just saying you "built new location-based iOS app for users to meet others", split this up into discrete chunks. 
+    * Example: Instead of just saying you "built new location-based iOS app for users to meet others", split this project up into discrete features you developed. 
         1. "developed realtime location iOS app with Swift and Firebase"
         2. "implemented location filtering algorithm to..."
         3. "parsed X API data and constructed Y database schema"
