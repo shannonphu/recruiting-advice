@@ -60,3 +60,8 @@ Recruiters are looking for your technical ability and experience building things
 Feel free to email me your resume for more personalized feedback after updating your resume with the above guidelines.
 * Email: skphu@ucla.edu
 * Resume: http://shannonphu.github.io/resume/
+
+## Motivation:
+I at first started reviewing resumes in 2015 while working for a small startup where I was helping with recruiting new technical team members. In 2017 I posted on UCLA ACM Hack's Facebook page offering resume reviews to anyone who wanted one right before the internship recruiting season started. I wasn't expecting much response since people are usually shy, but to my surprise I was messaged dozens of times the first few days, and I started getting 2-3 resumes per day after. This continued for the next 2 months. Most people were making the same mistakes on their resume, which is what I have accumulated in this guideline.
+
+Note: This advice is purely based off my own experiences talking to recruiters and seeing many resumes.
